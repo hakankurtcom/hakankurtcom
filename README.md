@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hakankurtcom
+- 👋 Hi, I’m @hakankurtcom 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning symfony and mind framework
-- 💞️ I’m looking to collaborate on wordpress, opencart and symfony
+- 🌱 I’m currently learning mind framework
+- 💞️ I’m looking to collaborate on wordpress, opencart
 - 📫 reach me info()hakankurt.com
+- 🐺 Peace
 
 <!---
 hakankurtcom/hakankurtcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

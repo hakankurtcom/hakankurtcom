@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakankurtcom 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning mind framework
+- 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m looking to collaborate on wordpress, opencart
 - 📫 reach me info()hakankurt.com
 - 🌍 Peace
